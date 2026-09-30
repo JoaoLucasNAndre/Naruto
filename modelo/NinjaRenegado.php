@@ -1,6 +1,6 @@
 <?php
 
-    require_once("modelo/Personagem.php");
+    require_once("Personagem.php");
 
 class NinjaRenegado extends Personagem
 {
